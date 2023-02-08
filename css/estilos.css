@@ -50,11 +50,9 @@ main img {
 main div.imagem-fundo {
    position: absolute;
    left: -50px;
+   right: 0px;
    top: 0;
    z-index: -1;
-   
-   
-
 }
 
 
