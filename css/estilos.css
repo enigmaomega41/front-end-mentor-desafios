@@ -47,6 +47,16 @@ main img {
     border-radius: 1rem 1rem 0 0;
 }
 
+main div.imagem-fundo {
+   position: absolute;
+   left: -50px;
+   top: 0;
+   z-index: -1;
+   
+   
+
+}
+
 
 main div.informacoes {
     display: flex;
